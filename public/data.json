@@ -1,15 +1,10 @@
 {
-  "lastChecked": "2025-06-24T14:57:40.312Z",
+  "lastChecked": "2025-06-24T15:14:42.196Z",
   "results": [
     {
       "name": "Silksong Steam Update",
-      "success": true,
-      "isUpdated": false,
-      "lastChangeTimestamp": null,
-      "diff": null,
-      "data": {
-        "lastUpdate": "11 June 2025 – 08:10:00 UTC ()"
-      }
+      "success": false,
+      "error": "No data was returned from fetch."
     },
     {
       "name": "Kickstarter Login",
@@ -382,12 +377,37 @@
     {
       "name": "Silksong Nintendo US Store (Multi)",
       "success": true,
-      "isUpdated": false,
-      "lastChangeTimestamp": null,
-      "diff": null,
+      "isUpdated": true,
+      "lastChangeTimestamp": "2025-06-24T15:15:28.047Z",
+      "diff": [
+        {
+          "count": 2,
+          "added": false,
+          "removed": false,
+          "value": "{\n  \"topSegment\": \"StoreGamesHollow Knight: SilksongSlide 1 of 6.cls-1{fill:#fff}Visit www.esrb.org for rating information.Hollow Knight: SilksongVersionNintendo SwitchEditionDigitalRegular Price:.cls-1{fill:#fff}Visit www.esrb.org for rating information.Releases TBD\",\n"
+        },
+        {
+          "count": 1,
+          "added": false,
+          "removed": true,
+          "value": "  \"middleSegment\": \"Discover a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Software description provided by the publisher.Explore this game's official website\",\n"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "removed": false,
+          "value": "  \"middleSegment\": \"Discover a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Read moreSoftware description provided by the publisher.Explore this game's official website\",\n"
+        },
+        {
+          "count": 2,
+          "added": false,
+          "removed": false,
+          "value": "  \"aboutThisItem\": \"About this itemSupported play modesHandheld modeTabletop modeTV modeSoftware compatibility and play experience may differ on Nintendo Switch Lite. Additional accessories may be required(sold separately). See support for details.SystemNintendo SwitchWhich system(s) will play this game?Learn morePublisherTeam CherryDeveloperTeam CherrySupported languagesEnglish, French, German, Italian, Japanese, RussianRelease dateTBDESRB rating.cls-1{fill:#fff}Visit www.esrb.org for rating information.\"\n}"
+        }
+      ],
       "data": {
         "topSegment": "StoreGamesHollow Knight: SilksongSlide 1 of 6.cls-1{fill:#fff}Visit www.esrb.org for rating information.Hollow Knight: SilksongVersionNintendo SwitchEditionDigitalRegular Price:.cls-1{fill:#fff}Visit www.esrb.org for rating information.Releases TBD",
-        "middleSegment": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Software description provided by the publisher.Explore this game's official website",
+        "middleSegment": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Read moreSoftware description provided by the publisher.Explore this game's official website",
         "aboutThisItem": "About this itemSupported play modesHandheld modeTabletop modeTV modeSoftware compatibility and play experience may differ on Nintendo Switch Lite. Additional accessories may be required(sold separately). See support for details.SystemNintendo SwitchWhich system(s) will play this game?Learn morePublisherTeam CherryDeveloperTeam CherrySupported languagesEnglish, French, German, Italian, Japanese, RussianRelease dateTBDESRB rating.cls-1{fill:#fff}Visit www.esrb.org for rating information."
       }
     },
