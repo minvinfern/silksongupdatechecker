@@ -1,0 +1,2308 @@
+{
+  "lastChecked": "2025-06-24T14:57:40.312Z",
+  "results": [
+    {
+      "name": "Silksong Steam Update",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "lastUpdate": "11 June 2025 – 08:10:00 UTC ()"
+      }
+    },
+    {
+      "name": "Kickstarter Login",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "lastUpdate": "About the creatorTeam CherryAri GibsonBacker Favorite37 backed projects1 created projectlast loginApr 9 2025account createdFeb 2012Team Cherry is a small indie games team in Adelaide, South Australia.\r\n\r\nOur mission is to build crazy and exciting worlds for you to explore and conquer.MessageFollowteamcherry.com.auAdelaide, AU"
+      }
+    },
+    {
+      "name": "Nintendo JP",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "currency": "JPY",
+        "id": "D70010000096731",
+        "imageGroups": [
+          {
+            "images": [
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe2071ba6/products/D70010000096731/heroBanner/739af6c9d49b168252f57b1cca9aa0b22ce9e549b977673bb4cd3736c5d8e099.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe2071ba6/products/D70010000096731/heroBanner/739af6c9d49b168252f57b1cca9aa0b22ce9e549b977673bb4cd3736c5d8e099.jpg",
+                "title": "Hollow Knight: Silksong"
+              }
+            ],
+            "viewType": "heroBanner"
+          },
+          {
+            "images": [
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb6fb089f/products/D70010000096731/screenShot/2fb23ebed5c7d9f18419b310c0b8b3cb695d9aaa0644163ab98c228775366cca.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb6fb089f/products/D70010000096731/screenShot/2fb23ebed5c7d9f18419b310c0b8b3cb695d9aaa0644163ab98c228775366cca.jpg",
+                "title": "Hollow Knight: Silksong"
+              },
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4170a4ec/products/D70010000096731/screenShot/acd3f323c2e4dd6e706367ff3b82231d2d8190ef3823fe0a385921c5be85972f.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4170a4ec/products/D70010000096731/screenShot/acd3f323c2e4dd6e706367ff3b82231d2d8190ef3823fe0a385921c5be85972f.jpg",
+                "title": "Hollow Knight: Silksong"
+              },
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4daa690e/products/D70010000096731/screenShot/a6e6aa36d0ff297176e28719430b7205c1c16126f3615354e98e97fe98a53e19.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4daa690e/products/D70010000096731/screenShot/a6e6aa36d0ff297176e28719430b7205c1c16126f3615354e98e97fe98a53e19.jpg",
+                "title": "Hollow Knight: Silksong"
+              },
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4c8f81b8/products/D70010000096731/screenShot/31a7de1fc4cd76980f8edd4e81765cc49d36d8e77d805275b3a9441051d0eb14.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4c8f81b8/products/D70010000096731/screenShot/31a7de1fc4cd76980f8edd4e81765cc49d36d8e77d805275b3a9441051d0eb14.jpg",
+                "title": "Hollow Knight: Silksong"
+              },
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc89291b5/products/D70010000096731/screenShot/a525603f62bc2318ac103de4333f9b78c5b6645de71651c2b7176fc86337ebf9.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwc89291b5/products/D70010000096731/screenShot/a525603f62bc2318ac103de4333f9b78c5b6645de71651c2b7176fc86337ebf9.jpg",
+                "title": "Hollow Knight: Silksong"
+              },
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6317a54a/products/D70010000096731/screenShot/9270f17279f9bcdfaf7928fdbf1780906e4a62dd0b2d1883ca608e6d1760a60b.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6317a54a/products/D70010000096731/screenShot/9270f17279f9bcdfaf7928fdbf1780906e4a62dd0b2d1883ca608e6d1760a60b.jpg",
+                "title": "Hollow Knight: Silksong"
+              }
+            ],
+            "viewType": "screenShot"
+          },
+          {
+            "images": [
+              {
+                "alt": "Hollow Knight: Silksong",
+                "disBaseLink": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw44c32b12/products/D70010000096731/squareHeroBanner/7af067c9d8756924e6f80f6ffce45c12f0c6e788d4dc05e2a24e96b9aef9a396.jpg",
+                "link": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw44c32b12/products/D70010000096731/squareHeroBanner/7af067c9d8756924e6f80f6ffce45c12f0c6e788d4dc05e2a24e96b9aef9a396.jpg",
+                "title": "Hollow Knight: Silksong"
+              }
+            ],
+            "viewType": "squareHeroBanner"
+          }
+        ],
+        "inventory": {
+          "ats": 0,
+          "backorderable": false,
+          "id": "mns_inventory_list",
+          "orderable": true,
+          "preorderable": false,
+          "stockLevel": 999999
+        },
+        "longDescription": "『Hollow Knight: Silksong』はアワード受賞アクションアドベンチャーゲーム『Hollow Knight』の続編。\n見知らぬ土地に連れてこられたハロウネストの王女ホーネット。そこはシルクと歌に支配された古代の虫王国。そんな世界を探検し、さまざまな敵に立ち向かい、生き残ろう。",
+        "manufacturerName": "Team Cherry",
+        "master": {
+          "masterId": "D70010000096731",
+          "orderable": true
+        },
+        "minOrderQuantity": 1,
+        "name": "Hollow Knight: Silksong",
+        "primaryCategoryId": "software",
+        "productPromotions": [
+          {
+            "promotionId": "FreeShippingForOrder5500"
+          }
+        ],
+        "shortDescription": "呪われた王国の頂上をめざせ！",
+        "slugUrl": "https://store-jp.nintendo.com/list/software/D70010000096731.html",
+        "stepQuantity": 1,
+        "type": {
+          "master": true
+        },
+        "validFrom": {
+          "default": "2025-04-04T00:00:00.000Z"
+        },
+        "variants": [
+          {
+            "name": "Hollow Knight: Silksong",
+            "orderable": true,
+            "productId": "70010000096731",
+            "variationValues": {
+              "color": "10010101",
+              "size": "NONENONE",
+              "localVariation": "1"
+            }
+          }
+        ],
+        "variationAttributes": [
+          {
+            "id": "color",
+            "name": "カラー",
+            "values": [
+              {
+                "name": "ダウンロード版",
+                "orderable": true,
+                "value": "10010101"
+              }
+            ]
+          },
+          {
+            "id": "size",
+            "name": "サイズ",
+            "values": [
+              {
+                "name": "-",
+                "orderable": true,
+                "value": "NONENONE"
+              }
+            ]
+          },
+          {
+            "id": "localVariation",
+            "name": "ローカルバリエーション",
+            "values": [
+              {
+                "name": "1",
+                "orderable": true,
+                "value": "1"
+              }
+            ]
+          }
+        ],
+        "c_aocs": "[]",
+        "c_applicationId": "0400714022812000",
+        "c_beeUsableFlagForSearch": false,
+        "c_canDisplayPage": true,
+        "c_canShipment": false,
+        "c_deviceType": "BEE",
+        "c_formCode": "P",
+        "c_goldPointBasePrice": 0,
+        "c_groupCode": "BEE_P_AAPF",
+        "c_hasNSOSupported": false,
+        "c_hasTrial": false,
+        "c_hideEinstein": false,
+        "c_hideTag": false,
+        "c_initialCode": "AAPFA",
+        "c_isClassicGame": false,
+        "c_isExClassicGame": false,
+        "c_isMembershipProductTrial": false,
+        "c_isNSOSupported": false,
+        "c_isProductTrial": false,
+        "c_keyword": "action adventure metroidvania",
+        "c_labelPlatform": "BEE",
+        "c_lastUpdateDate": "2025-04-30",
+        "c_offDeviceSalesCountries": [
+          "JP"
+        ],
+        "c_paymentRecipient": "TEAMCHERRY",
+        "c_platform": "BEE_DL",
+        "c_productClassCode": "BEE",
+        "c_publisher": "TEAMCHERRY",
+        "c_rating": "審査予定(B相当)",
+        "c_ratingId": 10,
+        "c_ratingSystem": "CERO",
+        "c_relatedContents": "[]",
+        "c_showWidelyFlag": true,
+        "c_softType": "TITLE",
+        "c_switchUsableFlagForSearch": false,
+        "c_upgradeRelatedTitles": "[]",
+        "c_original_isDigital": true,
+        "c_original_isMembershipOnly": false,
+        "c_original_productName": "Hollow Knight: Silksong",
+        "c_original_hasCatalogTicket": false,
+        "c_original_isSoft": true,
+        "c_original_isShowProductTrial": false,
+        "c_original_productTrialDescription": "",
+        "c_original_variationTypes": [
+          {
+            "id": "70010000096731",
+            "price": null,
+            "variationAttributeName": "ダウンロード版",
+            "isSoldOut": false,
+            "isDigital": true,
+            "hasDownloadCode": null,
+            "regularPriceOnSale": null,
+            "variationMasterId": "D70010000096731",
+            "categoryId": "software",
+            "isDefaultProduct": true,
+            "inactive": false
+          }
+        ],
+        "c_original_variationProducts": [
+          {
+            "variationMasterId": "D70010000096731",
+            "variationProductId": "70010000096731",
+            "variationName": "ダウンロード版",
+            "isSoldOut": false,
+            "categoryId": "software",
+            "isDefaultProduct": true
+          }
+        ],
+        "c_original_compositions": [
+          {
+            "id": "70010000096731",
+            "type": "BEE",
+            "price": null,
+            "isSoldOut": false,
+            "isDigital": true,
+            "regularPriceOnSale": null,
+            "inactive": false,
+            "variationMasterId": "D70010000096731",
+            "categoryId": "software",
+            "isDefaultProduct": true
+          }
+        ],
+        "c_original_nsUid": 70010000096731,
+        "c_original_defaultVariationId": "70010000096731",
+        "c_original_heroImageUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe2071ba6/products/D70010000096731/heroBanner/739af6c9d49b168252f57b1cca9aa0b22ce9e549b977673bb4cd3736c5d8e099.jpg?sw=1368&strip=false",
+        "c_original_squareHeroImageUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw44c32b12/products/D70010000096731/squareHeroBanner/7af067c9d8756924e6f80f6ffce45c12f0c6e788d4dc05e2a24e96b9aef9a396.jpg?sw=990&strip=false",
+        "c_original_isTicket": false,
+        "c_original_categoryName": "ソフト",
+        "c_original_hasInventory": true,
+        "c_original_priceRanges": false,
+        "c_original_normalDeliveryDateTextForProduct": "通常2〜6日後にお届け ※一部離島除く",
+        "c_original_primaryCategory": "software",
+        "c_original_topLevelCategory": "software",
+        "c_original_softType": "TITLE",
+        "c_hasInAppPurchase": false,
+        "c_original_specification": {
+          "hasBeforeReleaseContent": false,
+          "playMode": [
+            "TV_MODE",
+            "TABLETOP_MODE",
+            "HANDHELD_MODE"
+          ],
+          "players": "1人",
+          "localCommunication": null,
+          "internetCommunication": null,
+          "depositSaveDataMessage": "対応",
+          "depositSaveDataUnsupported": null,
+          "hasSaveDataSupportedItem": true,
+          "hardware": null,
+          "manufacturerName": "Team Cherry",
+          "supportLanguages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "es",
+            "ko",
+            "ru",
+            "zh_CN",
+            "pt_US",
+            "en_US"
+          ],
+          "releaseDateText": null,
+          "isUnreleasedTargetProduct": true
+        },
+        "c_original_hasRatingSystem": {
+          "CERO": true,
+          "IARC": false
+        },
+        "c_original_ratingSystemImageUrl": "https://store-jp.nintendo.com/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw21391df7/ratings/CERO/rating/10.svg",
+        "c_original_needsAgeGate": false,
+        "c_original_ecBaseURL": "https://ec.nintendo.com",
+        "c_original_isSoftTypeTitle": true,
+        "c_original_isDownloadCodeSoft": false,
+        "c_original_maxOrderQuantity": 10,
+        "c_original_isDisplayUserPurchaseQuantityLimit": false,
+        "c_original_canDisplayFreeShippingLabel": false,
+        "c_original_isAOC": false,
+        "c_original_isSoftTypePreticket": false,
+        "c_original_isShowMakerNotices": true,
+        "c_original_isIncludeSetContents": false,
+        "c_original_canDisplayPdp": true,
+        "c_isTitleBundle": false,
+        "c_original_isSupportedGameChat": false,
+        "c_original_hasPurchaseLimit": false,
+        "c_original_tileData": {
+          "id": "D70010000096731",
+          "online": true,
+          "isSoft": true,
+          "isPreOrder": false,
+          "displayCategoryName": "ソフト",
+          "productName": "Hollow Knight: Silksong",
+          "displayImages": {
+            "squareHeroBanner": {
+              "url": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw44c32b12/products/D70010000096731/squareHeroBanner/7af067c9d8756924e6f80f6ffce45c12f0c6e788d4dc05e2a24e96b9aef9a396.jpg?sw=346&strip=false",
+              "isNoImage": null
+            },
+            "heroBanner": {
+              "url": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwe2071ba6/products/D70010000096731/heroBanner/739af6c9d49b168252f57b1cca9aa0b22ce9e549b977673bb4cd3736c5d8e099.jpg?sw=550&strip=false",
+              "isNoImage": null
+            }
+          },
+          "productType": "master",
+          "isLimitedStore": null,
+          "hasLimited": false,
+          "areAllLimited": false,
+          "isCustomizeSwitch": false,
+          "hasCustomizeSwitchInventory": null,
+          "searchPrice": null,
+          "hasInventory": true,
+          "isPlatinumPointProduct": false,
+          "platinumPoint": false,
+          "softVariations": "ダウンロード版",
+          "variationMasterId": "D70010000096731",
+          "categoryId": "software",
+          "isDefaultProduct": true,
+          "defaultProductId": "70010000096731",
+          "variationTypes": [
+            "70010000096731"
+          ],
+          "isSuper": true,
+          "softType": "TITLE"
+        },
+        "c_original_lexModalInfo": {
+          "isLexMembershipUser": false,
+          "isExMembershipFreeProductBundle": false,
+          "isExMembershipFreeProduct": null
+        },
+        "c_original_copyright": "© 2025 Team Cherry",
+        "c_original_breadcrumbsItemsList": [
+          [
+            {
+              "link": "/software",
+              "label": "ソフト"
+            }
+          ],
+          {
+            "label": "Hollow Knight: Silksong"
+          }
+        ],
+        "c_original_includesSuperPlatform": true,
+        "c_upgradeDescription": ""
+      }
+    },
+    {
+      "name": "Silksong Nintendo US Store (Multi)",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "topSegment": "StoreGamesHollow Knight: SilksongSlide 1 of 6.cls-1{fill:#fff}Visit www.esrb.org for rating information.Hollow Knight: SilksongVersionNintendo SwitchEditionDigitalRegular Price:.cls-1{fill:#fff}Visit www.esrb.org for rating information.Releases TBD",
+        "middleSegment": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Software description provided by the publisher.Explore this game's official website",
+        "aboutThisItem": "About this itemSupported play modesHandheld modeTabletop modeTV modeSoftware compatibility and play experience may differ on Nintendo Switch Lite. Additional accessories may be required(sold separately). See support for details.SystemNintendo SwitchWhich system(s) will play this game?Learn morePublisherTeam CherryDeveloperTeam CherrySupported languagesEnglish, French, German, Italian, Japanese, RussianRelease dateTBDESRB rating.cls-1{fill:#fff}Visit www.esrb.org for rating information."
+      }
+    },
+    {
+      "name": "Nintendo UK Store",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "lastUpdate": "Hollow Knight: Silksong\n\t\t\t\t\t\t\nSystem: Nintendo Switch Release date: 2025\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n          !Information This content is not available to purchase in Nintendo eShop yet. Find out more\n\t\t\t\t\t\n Hollow Knight: Silksong     Menu    Hollow Knight: Silksong     Menu    OverviewDetails  OverviewDetails\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\n\t\t\t\t\n\t\t\t\t \t\n  Discover a vast, haunted kingdom in Hollow Knight: Silksong, the sequel to the award-winning action-adventure.Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak. Features: Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.  \n\t This description was provided by the publisher.  \n\t\t\t\t\t\n\t\t\t\t\n\t\n\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tCategories\n\t\t\t\tPlatformer\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tPublisher\n\t\t\t\tTeam Cherry\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tDeveloper\n\t\t\t\tTeam Cherry\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\tAge rating\n\t\t\t\tTBD\n\t\t\n\t\t \n\t\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\n\t\t\n\t\t\n\t\n\t\t\t\t\n\t\t\t\t\tNintendo Switch download software\n\t\t\t\t\n\t\n\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tSystem\n\t\t\t\t\t\tNintendo Switch\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tRelease date\n\t\t\t\t\t\t2025\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tAge rating\n\t\t\t\t\t\t\tTBD"
+      }
+    },
+    {
+      "name": "Silksong Microsoft API",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "Products": [
+          {
+            "LastModifiedDate": "2025-05-22T06:38:45.9150177Z",
+            "LocalizedProperties": [
+              {
+                "DeveloperName": "Team Cherry",
+                "PublisherName": "Team Cherry",
+                "PublisherAddress": null,
+                "PublisherWebsiteUri": "http://teamcherry.com.au/",
+                "SupportUri": "",
+                "SupportPhone": null,
+                "CMSVideos": [
+                  {
+                    "DASH": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/82368a1e-8238-4a78-8ee7-2c5226c4d99e-AVS.mpd",
+                    "HLS": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftassets/82368a1e-8238-4a78-8ee7-2c5226c4d99e-AVS.m3u8?packagedStreaming=true",
+                    "CMS": null,
+                    "CC": null,
+                    "VideoPurpose": "HeroTrailer",
+                    "Height": 1080,
+                    "Width": 1920,
+                    "AudioEncoding": "",
+                    "VideoEncoding": "avc1",
+                    "VideoPositionInfo": "Video/0",
+                    "Caption": "MS Store Strive 1080p",
+                    "FileSizeInBytes": 196686282,
+                    "PreviewImage": {
+                      "FileId": "3045871172869282663",
+                      "EISListingIdentifier": null,
+                      "BackgroundColor": null,
+                      "Caption": "MS Store Strive 1080p",
+                      "FileSizeInBytes": 2140917,
+                      "ForegroundColor": null,
+                      "Height": 1080,
+                      "ImagePositionInfo": null,
+                      "ImagePurpose": "trailer",
+                      "UnscaledImageSHA256Hash": "7ygCOVFmauPMAlncqca4wkItuzFGvX+MspmM+TaAvGA=",
+                      "Uri": "//store-images.s-microsoft.com/image/apps.10479.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.b6b279bd-450c-42f1-be5c-59e8a67efcc6",
+                      "Width": 1920
+                    },
+                    "TrailerId": "d294c29f-d98e-be6b-51f9-317c87ef4ff1",
+                    "SortOrder": 1
+                  }
+                ],
+                "EligibilityProperties": {
+                  "Remediations": [],
+                  "Affirmations": []
+                },
+                "Franchises": [],
+                "Images": [
+                  {
+                    "FileId": "3003670408905455343",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 11165765,
+                    "ForegroundColor": "",
+                    "Height": 2160,
+                    "ImagePositionInfo": "",
+                    "ImagePurpose": "BoxArt",
+                    "UnscaledImageSHA256Hash": "x51RChaJLL7vAZoAQT39XaREJMq5LBe7J07RU+2Vs4U=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.40391.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.960a3fa2-5987-49b8-9d15-602af0a1ff93",
+                    "Width": 2160
+                  },
+                  {
+                    "FileId": "3061595487028468292",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 7326384,
+                    "ForegroundColor": "",
+                    "Height": 2160,
+                    "ImagePositionInfo": "",
+                    "ImagePurpose": "Poster",
+                    "UnscaledImageSHA256Hash": "YlOaTeB+yKEvHaIXxePDCV9t1pHOfYjKsNhI1JmM5mQ=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.21346.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.508fc374-c9ac-44bf-b71a-9d4b29515e2f",
+                    "Width": 1440
+                  },
+                  {
+                    "FileId": "3062833521583352862",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2140917,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "",
+                    "ImagePurpose": "TitledHeroArt",
+                    "UnscaledImageSHA256Hash": "7ygCOVFmauPMAlncqca4wkItuzFGvX+MspmM+TaAvGA=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.10479.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.b6b279bd-450c-42f1-be5c-59e8a67efcc6",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3008114121508743400",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1486199,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "",
+                    "ImagePurpose": "FeaturePromotionalSquareArt",
+                    "UnscaledImageSHA256Hash": "OyRP+LAvhI9PGIV8kEuhFW5rt2GfBnfab51nvGhc6/k=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.9275.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.d7249d38-32a7-4e7f-9a21-d66bfc83442d",
+                    "Width": 1080
+                  },
+                  {
+                    "FileId": "3032416295294757637",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2078707,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "",
+                    "ImagePurpose": "SuperHeroArt",
+                    "UnscaledImageSHA256Hash": "Pc5bueI9nJPTg5i9yHrZiYp7B7rJboc6/n++0E6yzRc=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.52797.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.f9cb2f80-a3fa-46c8-ae79-d19ce6e28245",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3025838190765783625",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2241695,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/1",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "KholvcQ2xBz3kUUuyz/nTXSGX0lpRxWYs+nfLBqyVIQ=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.6698.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.ea66508d-2e03-482f-ac70-3f55b63f6333",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3031098079461234775",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1702831,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/2",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "qIgpHId8Sd95f+qF/NKnllD32cv5DLY4Lp7BU0SoPog=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.34984.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.d0d8cf4f-e69a-4c4f-8f75-0c3f17ffba9c",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3030929468518463670",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2241695,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/2",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "KholvcQ2xBz3kUUuyz/nTXSGX0lpRxWYs+nfLBqyVIQ=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.6698.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.ea66508d-2e03-482f-ac70-3f55b63f6333",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3011315768353844922",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1702831,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/3",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "qIgpHId8Sd95f+qF/NKnllD32cv5DLY4Lp7BU0SoPog=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.34984.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.d0d8cf4f-e69a-4c4f-8f75-0c3f17ffba9c",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3007121578359916050",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1866203,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/3",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "RRYkJPfbssv2cVaw7nDrlR++/dzTADFbARvF2IXgUbQ=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.5701.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.f3e4feb8-1e79-4fd7-a3a0-5bc4141290c0",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3014292153648266697",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1866203,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/4",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "RRYkJPfbssv2cVaw7nDrlR++/dzTADFbARvF2IXgUbQ=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.5701.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.f3e4feb8-1e79-4fd7-a3a0-5bc4141290c0",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3044914175087427039",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2237989,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/4",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "2MJFF5IGNopD75m8vdkYRxv7yZ1HcZnF58A3x8KWXbo=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.49880.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.7a9a2f3f-d446-4ca6-99ff-a28a55b914c9",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3012056690551729526",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1618673,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/5",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "v32ltZeuDh57rB6VSDQN8wMMEZhno/y6DKCw42yLHg4=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.32191.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.f7a0013d-932b-4316-8b8a-d740047025b0",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3069247364626657789",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2237989,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/6",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "2MJFF5IGNopD75m8vdkYRxv7yZ1HcZnF58A3x8KWXbo=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.49880.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.7a9a2f3f-d446-4ca6-99ff-a28a55b914c9",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3017918562103648249",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2259189,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Desktop/6",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "UwcWvtjL0ukkiyogIC2kxpDpaG2vuwnbWRBZEVXEjhk=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.1875.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.b44c6e94-1e1a-4121-926b-414c95c7ee92",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3033871897144156088",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 1618673,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/7",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "v32ltZeuDh57rB6VSDQN8wMMEZhno/y6DKCw42yLHg4=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.32191.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.f7a0013d-932b-4316-8b8a-d740047025b0",
+                    "Width": 1920
+                  },
+                  {
+                    "FileId": "3049617757580480288",
+                    "EISListingIdentifier": null,
+                    "BackgroundColor": "",
+                    "Caption": "",
+                    "FileSizeInBytes": 2259189,
+                    "ForegroundColor": "",
+                    "Height": 1080,
+                    "ImagePositionInfo": "Xbox/9",
+                    "ImagePurpose": "Screenshot",
+                    "UnscaledImageSHA256Hash": "UwcWvtjL0ukkiyogIC2kxpDpaG2vuwnbWRBZEVXEjhk=",
+                    "Uri": "//store-images.s-microsoft.com/image/apps.1875.13915115277924383.ab2daab8-cb71-4e1a-ad73-9e4a3e87c3f3.b44c6e94-1e1a-4121-926b-414c95c7ee92",
+                    "Width": 1920
+                  }
+                ],
+                "Videos": [],
+                "ProductDescription": "Ascend to the peak of a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award-winning action-adventure, Hollow Knight. Explore, fight and survive as Hornet, princess-protector of Hallownest, as she discovers a land ruled by silk and song.",
+                "ProductTitle": "Hollow Knight: Silksong",
+                "ShortTitle": "Silksong",
+                "SortTitle": "Hollow Knight: Silksong",
+                "FriendlyTitle": null,
+                "ShortDescription": "Ascend to the peak of a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award-winning action-adventure, Hollow Knight. Explore, fight and survive as Hornet, princess-protector of Hallownest, as she discovers a land ruled by silk and song.",
+                "SearchTitles": [
+                  {
+                    "SearchTitleString": "Hollow Knight",
+                    "SearchTitleType": "SearchHint"
+                  },
+                  {
+                    "SearchTitleString": "Indie",
+                    "SearchTitleType": "SearchHint"
+                  },
+                  {
+                    "SearchTitleString": "Platformer",
+                    "SearchTitleType": "SearchHint"
+                  },
+                  {
+                    "SearchTitleString": "Metroidvania",
+                    "SearchTitleType": "SearchHint"
+                  },
+                  {
+                    "SearchTitleString": "Adventure",
+                    "SearchTitleType": "SearchHint"
+                  }
+                ],
+                "VoiceTitle": "Silksong",
+                "RenderGroupDetails": null,
+                "ProductDisplayRanks": [],
+                "InteractiveModelConfig": null,
+                "Interactive3DEnabled": false,
+                "Language": "en",
+                "Markets": [
+                  "US",
+                  "DZ",
+                  "AR",
+                  "AU",
+                  "AT",
+                  "BH",
+                  "BD",
+                  "BE",
+                  "BR",
+                  "BG",
+                  "CA",
+                  "CL",
+                  "CN",
+                  "CO",
+                  "CR",
+                  "HR",
+                  "CY",
+                  "CZ",
+                  "DK",
+                  "EG",
+                  "EE",
+                  "FI",
+                  "FR",
+                  "DE",
+                  "GR",
+                  "GT",
+                  "HK",
+                  "HU",
+                  "IS",
+                  "IN",
+                  "ID",
+                  "IQ",
+                  "IE",
+                  "IL",
+                  "IT",
+                  "JP",
+                  "JO",
+                  "KZ",
+                  "KE",
+                  "KW",
+                  "LV",
+                  "LB",
+                  "LI",
+                  "LT",
+                  "LU",
+                  "MY",
+                  "MT",
+                  "MR",
+                  "MX",
+                  "MA",
+                  "NL",
+                  "NZ",
+                  "NG",
+                  "NO",
+                  "OM",
+                  "PK",
+                  "PE",
+                  "PH",
+                  "PL",
+                  "PT",
+                  "QA",
+                  "RO",
+                  "RU",
+                  "SA",
+                  "RS",
+                  "SG",
+                  "SK",
+                  "SI",
+                  "ZA",
+                  "KR",
+                  "ES",
+                  "SE",
+                  "CH",
+                  "TW",
+                  "TH",
+                  "TT",
+                  "TN",
+                  "TR",
+                  "UA",
+                  "AE",
+                  "GB",
+                  "VN",
+                  "YE",
+                  "LY",
+                  "LK",
+                  "UY",
+                  "VE",
+                  "AF",
+                  "AX",
+                  "AL",
+                  "AS",
+                  "AO",
+                  "AI",
+                  "AQ",
+                  "AG",
+                  "AM",
+                  "AW",
+                  "BO",
+                  "BQ",
+                  "BA",
+                  "BW",
+                  "BV",
+                  "IO",
+                  "BN",
+                  "BF",
+                  "BI",
+                  "KH",
+                  "CM",
+                  "CV",
+                  "KY",
+                  "CF",
+                  "TD",
+                  "TL",
+                  "DJ",
+                  "DM",
+                  "DO",
+                  "EC",
+                  "SV",
+                  "GQ",
+                  "ER",
+                  "ET",
+                  "FK",
+                  "FO",
+                  "FJ",
+                  "GF",
+                  "PF",
+                  "TF",
+                  "GA",
+                  "GM",
+                  "GE",
+                  "GH",
+                  "GI",
+                  "GL",
+                  "GD",
+                  "GP",
+                  "GU",
+                  "GG",
+                  "GN",
+                  "GW",
+                  "GY",
+                  "HT",
+                  "HM",
+                  "HN",
+                  "AZ",
+                  "BS",
+                  "BB",
+                  "BY",
+                  "BZ",
+                  "BJ",
+                  "BM",
+                  "BT",
+                  "KM",
+                  "CG",
+                  "CD",
+                  "CK",
+                  "CX",
+                  "CC",
+                  "CI",
+                  "CW",
+                  "JM",
+                  "SJ",
+                  "JE",
+                  "KI",
+                  "KG",
+                  "LA",
+                  "LS",
+                  "LR",
+                  "MO",
+                  "MK",
+                  "MG",
+                  "MW",
+                  "IM",
+                  "MH",
+                  "MQ",
+                  "MU",
+                  "YT",
+                  "FM",
+                  "MD",
+                  "MN",
+                  "MS",
+                  "MZ",
+                  "MM",
+                  "NA",
+                  "NR",
+                  "NP",
+                  "MV",
+                  "ML",
+                  "NC",
+                  "NI",
+                  "NE",
+                  "NU",
+                  "NF",
+                  "PW",
+                  "PS",
+                  "PA",
+                  "PG",
+                  "PY",
+                  "RE",
+                  "RW",
+                  "BL",
+                  "MF",
+                  "WS",
+                  "ST",
+                  "SN",
+                  "MP",
+                  "PN",
+                  "SX",
+                  "SB",
+                  "SO",
+                  "SC",
+                  "SL",
+                  "GS",
+                  "SH",
+                  "KN",
+                  "LC",
+                  "PM",
+                  "VC",
+                  "TJ",
+                  "TZ",
+                  "TG",
+                  "TK",
+                  "TO",
+                  "TM",
+                  "TC",
+                  "TV",
+                  "UM",
+                  "UG",
+                  "VI",
+                  "VG",
+                  "WF",
+                  "EH",
+                  "ZM",
+                  "ZW",
+                  "UZ",
+                  "VU",
+                  "SR",
+                  "SZ",
+                  "AD",
+                  "MC",
+                  "SM",
+                  "ME",
+                  "VA",
+                  "NEUTRAL"
+                ]
+              }
+            ],
+            "MarketProperties": [
+              {
+                "OriginalReleaseDate": "2024-04-01T19:36:36.3135802Z",
+                "MinimumUserAge": 7,
+                "ContentRatings": [
+                  {
+                    "RatingSystem": "ESRB",
+                    "RatingId": "ESRB:E10",
+                    "RatingDescriptors": [
+                      "ESRB:FanVio",
+                      "ESRB:MilBlo"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "PEGI",
+                    "RatingId": "PEGI:7",
+                    "RatingDescriptors": [
+                      "PEGI:MilVio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "DJCTQ",
+                    "RatingId": "DJCTQ:10",
+                    "RatingDescriptors": [
+                      "DJCTQ:Vio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "USK",
+                    "RatingId": "USK:12",
+                    "RatingDescriptors": [
+                      "USK:FanVio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "IARC",
+                    "RatingId": "IARC:7",
+                    "RatingDescriptors": [
+                      "IARC:MilVio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "COB-AU",
+                    "RatingId": "COB-AU:PG",
+                    "RatingDescriptors": [
+                      "COB-AU:MilVio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "GRB",
+                    "RatingId": "GRB:12",
+                    "RatingDescriptors": [
+                      "GRB:Vio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "PCBP",
+                    "RatingId": "PCBP:16",
+                    "RatingDescriptors": [
+                      "PCBP:Vio"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "CSRR",
+                    "RatingId": "CSRR:PG12",
+                    "RatingDescriptors": [
+                      "CSRR:Vio",
+                      "CSRR:Hor"
+                    ],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "CCC",
+                    "RatingId": "CCC:8",
+                    "RatingDescriptors": [],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  },
+                  {
+                    "RatingSystem": "Microsoft",
+                    "RatingId": "Microsoft:7",
+                    "RatingDescriptors": [],
+                    "RatingDisclaimers": [],
+                    "InteractiveElements": []
+                  }
+                ],
+                "RelatedProducts": [],
+                "UsageData": [
+                  {
+                    "AverageRating": 0,
+                    "AggregateTimeSpan": "AllTime",
+                    "RatingCount": 0,
+                    "PurchaseCount": "0",
+                    "TrialCount": "0",
+                    "RentalCount": "0",
+                    "PlayCount": 0
+                  },
+                  {
+                    "AverageRating": 0,
+                    "AggregateTimeSpan": "7Days",
+                    "RatingCount": 0,
+                    "PurchaseCount": "0",
+                    "TrialCount": "0",
+                    "RentalCount": "0",
+                    "PlayCount": 0
+                  },
+                  {
+                    "AverageRating": 0,
+                    "AggregateTimeSpan": "30Days",
+                    "RatingCount": 0,
+                    "PurchaseCount": "0",
+                    "TrialCount": "0",
+                    "RentalCount": "0",
+                    "PlayCount": 0
+                  }
+                ],
+                "BundleConfig": null,
+                "Markets": [
+                  "US"
+                ]
+              }
+            ],
+            "ProductASchema": "Product;3",
+            "ProductBSchema": "ProductGame;1",
+            "ProductId": "9N116V0599HB",
+            "Properties": {
+              "Attributes": [
+                {
+                  "Name": "BroadcastSupport",
+                  "Minimum": null,
+                  "Maximum": null,
+                  "ApplicablePlatforms": null,
+                  "Group": null
+                },
+                {
+                  "Name": "SinglePlayer",
+                  "Minimum": null,
+                  "Maximum": null,
+                  "ApplicablePlatforms": [
+                    "Xbox",
+                    "Desktop"
+                  ],
+                  "Group": null
+                },
+                {
+                  "Name": "XblAchievements",
+                  "Minimum": null,
+                  "Maximum": null,
+                  "ApplicablePlatforms": null,
+                  "Group": null
+                },
+                {
+                  "Name": "XblCloudSaves",
+                  "Minimum": null,
+                  "Maximum": null,
+                  "ApplicablePlatforms": null,
+                  "Group": null
+                },
+                {
+                  "Name": "XboxLive",
+                  "Minimum": null,
+                  "Maximum": null,
+                  "ApplicablePlatforms": null,
+                  "Group": null
+                }
+              ],
+              "CanInstallToSDCard": true,
+              "Category": "Action & adventure",
+              "Categories": [
+                "Action & adventure",
+                "Platformer"
+              ],
+              "Subcategory": null,
+              "IsAccessible": false,
+              "IsDemo": false,
+              "IsLineOfBusinessApp": false,
+              "IsPublishedToLegacyWindowsPhoneStore": false,
+              "IsPublishedToLegacyWindowsStore": false,
+              "PackageFamilyName": "TeamCherry.HollowKnightSilksong_y4jvztpgccj42",
+              "PackageIdentityName": "TeamCherry.HollowKnightSilksong",
+              "PublisherCertificateName": "CN=270A2C51-BCC3-4FEE-9756-1A11BC096110",
+              "PublisherId": "32085010",
+              "SkuDisplayGroups": [
+                {
+                  "Id": "01",
+                  "Treatment": "MergeAvailabilities"
+                }
+              ],
+              "XboxLiveTier": "Full",
+              "XboxXPA": null,
+              "XboxCrossGenSetId": null,
+              "XboxConsoleGenOptimized": null,
+              "XboxConsoleGenCompatible": null,
+              "XboxLiveGoldRequired": false,
+              "ExtendedMetadata": "9N116V0599HB_f5f7eff2-eb87-443f-b82e-53f8c25eb00c",
+              "XBOX": {
+                "XboxProperties": "acd86854-f2c9-41c9-a110-69a846e9be39",
+                "SubmissionId": "1152921505697572863",
+                "XboxGamingMetadata": "9N116V0599HB_f5f7eff2-eb87-443f-b82e-53f8c25eb00c"
+              },
+              "ExtendedClientMetadata": {},
+              "OwnershipType": null,
+              "PdpBackgroundColor": "#FFFFFF",
+              "HasAddOns": false,
+              "RevisionId": "2025-05-22T06:38:50.7744330Z"
+            },
+            "AlternateIds": [
+              {
+                "IdType": "LegacyWindowsStoreProductId",
+                "Value": "a2007c0c-8976-4a89-9624-29880b342320"
+              },
+              {
+                "IdType": "LegacyWindowsPhoneProductId",
+                "Value": "fb0d2e76-c256-4f66-995d-6997caf49654"
+              },
+              {
+                "IdType": "XboxTitleId",
+                "Value": "1668241504"
+              },
+              {
+                "IdType": "LegacyXboxProductId",
+                "Value": "31314e39-5636-3030-c035-39394842d600"
+              }
+            ],
+            "DomainDataVersion": null,
+            "IngestionSource": "DCE",
+            "IsMicrosoftProduct": false,
+            "PreferredSkuId": "0010",
+            "ProductType": "Game",
+            "ValidationData": {
+              "PassedValidation": false,
+              "RevisionId": "2025-05-22T06:38:50.7744330Z||.||568f387f-9db7-4613-8bc7-bebf85a82b9c||1152921505697572863||RETAIL||fullrelease",
+              "ValidationResultUri": ""
+            },
+            "MerchandizingTags": [],
+            "PartD": "",
+            "SandboxId": "RETAIL",
+            "ProductFamily": "Games",
+            "SchemaVersion": "3",
+            "IsSandboxedProduct": true,
+            "ProductKind": "Game",
+            "ProductPolicies": {},
+            "DisplaySkuAvailabilities": [
+              {
+                "Sku": {
+                  "LastModifiedDate": "2025-05-22T06:38:45.9150177Z",
+                  "LocalizedProperties": [
+                    {
+                      "Contributors": [],
+                      "Features": [
+                        "Discover a whole new kingdom! Explore coral forests, mossy grottos, gilded cities and misted moors as you ascend to the shining citadel at the top of the world.",
+                        "Engage in lethal acrobatic action! Wield a whole new suite of deadly moves as you dance between foes in deadly, beautiful combat.",
+                        "Craft powerful tools! Master an ever-expanding arsenal of weapons, traps, and mechanisms to confound your enemies and explore new heights.",
+                        "Solve shocking quests! Hunt down rare beasts, solve ancient mysteries and search for lost treasures to fulfil the wishes of the downtrodden and restore the kingdom’s hope. Prepare for the unexpected!",
+                        "Face over 150 all-new foes! Beasts and hunters, assassins and kings, monsters and knights, defeat them all with bravery and skill!",
+                        "Challenge Silk Soul mode! Once you conquer the kingdom, test your skills in an all-new mode that spins the game into a unique, challenging experience.",
+                        "Experience a stunning orchestral score! Hollow Knight’s award-winning composer, Christopher Larkin, returns to bring melancholy melodies, symphonic strings and heart-thumping, soul strumming boss them"
+                      ],
+                      "MinimumNotes": "",
+                      "RecommendedNotes": "",
+                      "ReleaseNotes": "",
+                      "DisplayPlatformProperties": null,
+                      "SkuDescription": "Ascend to the peak of a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award-winning action-adventure, Hollow Knight. Explore, fight and survive as Hornet, princess-protector of Hallownest, as she discovers a land ruled by silk and song.",
+                      "SkuTitle": "Hollow Knight: Silksong",
+                      "SkuButtonTitle": "",
+                      "DeliveryDateOverlay": null,
+                      "SkuDisplayRank": [],
+                      "TextResources": null,
+                      "Images": [],
+                      "LegalText": {
+                        "AdditionalLicenseTerms": "",
+                        "Copyright": "Hollow Knight © 2024 Team Cherry",
+                        "CopyrightUri": "",
+                        "PrivacyPolicy": "",
+                        "PrivacyPolicyUri": "https://www.teamcherry.com.au/faq",
+                        "Tou": "",
+                        "TouUri": ""
+                      },
+                      "Language": "en",
+                      "Markets": [
+                        "US",
+                        "DZ",
+                        "AR",
+                        "AU",
+                        "AT",
+                        "BH",
+                        "BD",
+                        "BE",
+                        "BR",
+                        "BG",
+                        "CA",
+                        "CL",
+                        "CN",
+                        "CO",
+                        "CR",
+                        "HR",
+                        "CY",
+                        "CZ",
+                        "DK",
+                        "EG",
+                        "EE",
+                        "FI",
+                        "FR",
+                        "DE",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HU",
+                        "IS",
+                        "IN",
+                        "ID",
+                        "IQ",
+                        "IE",
+                        "IL",
+                        "IT",
+                        "JP",
+                        "JO",
+                        "KZ",
+                        "KE",
+                        "KW",
+                        "LV",
+                        "LB",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "MY",
+                        "MT",
+                        "MR",
+                        "MX",
+                        "MA",
+                        "NL",
+                        "NZ",
+                        "NG",
+                        "NO",
+                        "OM",
+                        "PK",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "QA",
+                        "RO",
+                        "RU",
+                        "SA",
+                        "RS",
+                        "SG",
+                        "SK",
+                        "SI",
+                        "ZA",
+                        "KR",
+                        "ES",
+                        "SE",
+                        "CH",
+                        "TW",
+                        "TH",
+                        "TT",
+                        "TN",
+                        "TR",
+                        "UA",
+                        "AE",
+                        "GB",
+                        "VN",
+                        "YE",
+                        "LY",
+                        "LK",
+                        "UY",
+                        "VE",
+                        "AF",
+                        "AX",
+                        "AL",
+                        "AS",
+                        "AO",
+                        "AI",
+                        "AQ",
+                        "AG",
+                        "AM",
+                        "AW",
+                        "BO",
+                        "BQ",
+                        "BA",
+                        "BW",
+                        "BV",
+                        "IO",
+                        "BN",
+                        "BF",
+                        "BI",
+                        "KH",
+                        "CM",
+                        "CV",
+                        "KY",
+                        "CF",
+                        "TD",
+                        "TL",
+                        "DJ",
+                        "DM",
+                        "DO",
+                        "EC",
+                        "SV",
+                        "GQ",
+                        "ER",
+                        "ET",
+                        "FK",
+                        "FO",
+                        "FJ",
+                        "GF",
+                        "PF",
+                        "TF",
+                        "GA",
+                        "GM",
+                        "GE",
+                        "GH",
+                        "GI",
+                        "GL",
+                        "GD",
+                        "GP",
+                        "GU",
+                        "GG",
+                        "GN",
+                        "GW",
+                        "GY",
+                        "HT",
+                        "HM",
+                        "HN",
+                        "AZ",
+                        "BS",
+                        "BB",
+                        "BY",
+                        "BZ",
+                        "BJ",
+                        "BM",
+                        "BT",
+                        "KM",
+                        "CG",
+                        "CD",
+                        "CK",
+                        "CX",
+                        "CC",
+                        "CI",
+                        "CW",
+                        "JM",
+                        "SJ",
+                        "JE",
+                        "KI",
+                        "KG",
+                        "LA",
+                        "LS",
+                        "LR",
+                        "MO",
+                        "MK",
+                        "MG",
+                        "MW",
+                        "IM",
+                        "MH",
+                        "MQ",
+                        "MU",
+                        "YT",
+                        "FM",
+                        "MD",
+                        "MN",
+                        "MS",
+                        "MZ",
+                        "MM",
+                        "NA",
+                        "NR",
+                        "NP",
+                        "MV",
+                        "ML",
+                        "NC",
+                        "NI",
+                        "NE",
+                        "NU",
+                        "NF",
+                        "PW",
+                        "PS",
+                        "PA",
+                        "PG",
+                        "PY",
+                        "RE",
+                        "RW",
+                        "BL",
+                        "MF",
+                        "WS",
+                        "ST",
+                        "SN",
+                        "MP",
+                        "PN",
+                        "SX",
+                        "SB",
+                        "SO",
+                        "SC",
+                        "SL",
+                        "GS",
+                        "SH",
+                        "KN",
+                        "LC",
+                        "PM",
+                        "VC",
+                        "TJ",
+                        "TZ",
+                        "TG",
+                        "TK",
+                        "TO",
+                        "TM",
+                        "TC",
+                        "TV",
+                        "UM",
+                        "UG",
+                        "VI",
+                        "VG",
+                        "WF",
+                        "EH",
+                        "ZM",
+                        "ZW",
+                        "UZ",
+                        "VU",
+                        "SR",
+                        "SZ",
+                        "AD",
+                        "MC",
+                        "SM",
+                        "ME",
+                        "VA",
+                        "NEUTRAL"
+                      ]
+                    }
+                  ],
+                  "MarketProperties": [
+                    {
+                      "FirstAvailableDate": null,
+                      "SupportedLanguages": [
+                        "es",
+                        "en",
+                        "zh-hans",
+                        "fr",
+                        "de",
+                        "it",
+                        "ja",
+                        "ko",
+                        "pt",
+                        "ru"
+                      ],
+                      "PackageIds": null,
+                      "PIFilter": null,
+                      "Markets": [
+                        "US"
+                      ]
+                    }
+                  ],
+                  "ProductId": "9N116V0599HB",
+                  "Properties": {
+                    "EarlyAdopterEnrollmentUrl": null,
+                    "FulfillmentData": {
+                      "ProductId": "9N116V0599HB",
+                      "WuBundleId": "a47214f1-dbf9-43d7-9660-1047657ee71c",
+                      "WuCategoryId": "e3644111-606f-4941-814c-88a7a611fbde",
+                      "PackageFamilyName": "TeamCherry.HollowKnightSilksong_y4jvztpgccj42",
+                      "SkuId": "0010",
+                      "Content": null,
+                      "PackageFeatures": null
+                    },
+                    "FulfillmentType": null,
+                    "FulfillmentPluginId": null,
+                    "HasThirdPartyIAPs": false,
+                    "LastUpdateDate": "2025-05-22T06:38:45.0000000Z",
+                    "HardwareProperties": {
+                      "MinimumHardware": [],
+                      "RecommendedHardware": [],
+                      "MinimumProcessor": null,
+                      "RecommendedProcessor": null,
+                      "MinimumGraphics": null,
+                      "RecommendedGraphics": null
+                    },
+                    "HardwareRequirements": [],
+                    "HardwareWarningList": [],
+                    "InstallationTerms": "InstallationTermsRestrictivePC",
+                    "Packages": [],
+                    "VersionString": "",
+                    "SkuDisplayGroupIds": [
+                      "01"
+                    ],
+                    "XboxXPA": false,
+                    "BundledSkus": [],
+                    "IsRepurchasable": false,
+                    "SkuDisplayRank": 0,
+                    "DisplayPhysicalStoreInventory": null,
+                    "VisibleToB2BServiceIds": [],
+                    "AdditionalIdentifiers": [],
+                    "IsTrial": false,
+                    "IsPreOrder": false,
+                    "IsBundle": false
+                  },
+                  "SkuASchema": "Sku;3",
+                  "SkuBSchema": "SkuGame;1",
+                  "SkuId": "0010",
+                  "SkuType": "full",
+                  "RecurrencePolicy": null,
+                  "SubscriptionPolicyId": null
+                },
+                "Availabilities": [
+                  {
+                    "Actions": [
+                      "Details",
+                      "Browse",
+                      "Curate",
+                      "Redeem"
+                    ],
+                    "AvailabilityASchema": "Availability;3",
+                    "AvailabilityBSchema": "AvailabilityGame;1",
+                    "AvailabilityId": "9P374295G6VZ",
+                    "Conditions": {
+                      "ClientConditions": {
+                        "AllowedPlatforms": [
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Desktop"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Xbox"
+                          }
+                        ]
+                      },
+                      "EndDate": "9998-12-30T00:00:00.0000000Z",
+                      "ResourceSetIds": [
+                        "1"
+                      ],
+                      "StartDate": "1753-01-01T00:00:00.0000000Z"
+                    },
+                    "LastModifiedDate": "2025-05-22T05:13:07.3052876Z",
+                    "Markets": [
+                      "US"
+                    ],
+                    "OrderManagementData": {
+                      "GrantedEntitlementKeys": [],
+                      "PIFilter": {
+                        "ExclusionProperties": [],
+                        "InclusionProperties": []
+                      },
+                      "Price": {
+                        "CurrencyCode": "USD",
+                        "IsPIRequired": false,
+                        "ListPrice": 0,
+                        "MSRP": 0,
+                        "TaxType": "TaxesNotIncluded",
+                        "WholesaleCurrencyCode": ""
+                      }
+                    },
+                    "Properties": {
+                      "OriginalReleaseDate": "0001-01-01T00:00:00.0000000Z"
+                    },
+                    "SkuId": "0010",
+                    "DisplayRank": 0,
+                    "AlternateIds": [
+                      {
+                        "IdType": "LegacyTokenIdentifier",
+                        "Value": "31314e39-5636-3030-c035-39394842d600"
+                      }
+                    ],
+                    "RemediationRequired": false
+                  },
+                  {
+                    "Actions": [
+                      "License",
+                      "Details"
+                    ],
+                    "AvailabilityASchema": "Availability;3",
+                    "AvailabilityBSchema": "AvailabilityGame;1",
+                    "AvailabilityId": "9SD92XN7P7RV",
+                    "Conditions": {
+                      "ClientConditions": {
+                        "AllowedPlatforms": [
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Mobile"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Team"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Holographic"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.8828080"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Core"
+                          }
+                        ]
+                      },
+                      "EndDate": "9998-12-30T00:00:00.0000000Z",
+                      "ResourceSetIds": [
+                        "1"
+                      ],
+                      "StartDate": "1753-01-01T00:00:00.0000000Z"
+                    },
+                    "LastModifiedDate": "2025-05-22T05:13:07.3052876Z",
+                    "LicensingData": {
+                      "SatisfyingEntitlementKeys": [
+                        {
+                          "EntitlementKeys": [
+                            "big:9N116V0599HB:0010"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "wes:App:fb0d2e76-c256-4f66-995d-6997caf49654:Full"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "wes:App:a2007c0c-8976-4a89-9624-29880b342320:Full"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "big:9N116V0599HB:0001"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "big:9N116V0599HB:0002"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "big:BRR4NZHT611B:0001"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "EntitlementKeys": [
+                            "big:BRR4NZHT611B:0003"
+                          ],
+                          "LicensingKeyIds": [
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    "Markets": [
+                      "US"
+                    ],
+                    "OrderManagementData": {
+                      "GrantedEntitlementKeys": [],
+                      "Price": {
+                        "CurrencyCode": "USD",
+                        "IsPIRequired": false,
+                        "ListPrice": 0,
+                        "MSRP": 0,
+                        "TaxType": "",
+                        "WholesaleCurrencyCode": ""
+                      }
+                    },
+                    "Properties": {},
+                    "SkuId": "0010",
+                    "DisplayRank": 1,
+                    "RemediationRequired": false
+                  }
+                ],
+                "HistoricalBestAvailabilities": []
+              },
+              {
+                "Sku": {
+                  "LastModifiedDate": "2025-05-22T06:38:45.9150177Z",
+                  "LocalizedProperties": [
+                    {
+                      "Contributors": [],
+                      "Features": [
+                        "Discover a whole new kingdom! Explore coral forests, mossy grottos, gilded cities and misted moors as you ascend to the shining citadel at the top of the world.",
+                        "Engage in lethal acrobatic action! Wield a whole new suite of deadly moves as you dance between foes in deadly, beautiful combat.",
+                        "Craft powerful tools! Master an ever-expanding arsenal of weapons, traps, and mechanisms to confound your enemies and explore new heights.",
+                        "Solve shocking quests! Hunt down rare beasts, solve ancient mysteries and search for lost treasures to fulfil the wishes of the downtrodden and restore the kingdom’s hope. Prepare for the unexpected!",
+                        "Face over 150 all-new foes! Beasts and hunters, assassins and kings, monsters and knights, defeat them all with bravery and skill!",
+                        "Challenge Silk Soul mode! Once you conquer the kingdom, test your skills in an all-new mode that spins the game into a unique, challenging experience.",
+                        "Experience a stunning orchestral score! Hollow Knight’s award-winning composer, Christopher Larkin, returns to bring melancholy melodies, symphonic strings and heart-thumping, soul strumming boss them"
+                      ],
+                      "MinimumNotes": "",
+                      "RecommendedNotes": "",
+                      "ReleaseNotes": "",
+                      "DisplayPlatformProperties": null,
+                      "SkuDescription": "Ascend to the peak of a vast, haunted kingdom in Hollow Knight: Silksong! The sequel to the award-winning action-adventure, Hollow Knight. Explore, fight and survive as Hornet, princess-protector of Hallownest, as she discovers a land ruled by silk and song.",
+                      "SkuTitle": "Hollow Knight: Silksong",
+                      "SkuButtonTitle": "",
+                      "DeliveryDateOverlay": null,
+                      "SkuDisplayRank": [],
+                      "TextResources": null,
+                      "Images": [],
+                      "LegalText": {
+                        "AdditionalLicenseTerms": "",
+                        "Copyright": "Hollow Knight © 2024 Team Cherry",
+                        "CopyrightUri": "",
+                        "PrivacyPolicy": "",
+                        "PrivacyPolicyUri": "https://www.teamcherry.com.au/faq",
+                        "Tou": "",
+                        "TouUri": ""
+                      },
+                      "Language": "en",
+                      "Markets": [
+                        "US",
+                        "DZ",
+                        "AR",
+                        "AU",
+                        "AT",
+                        "BH",
+                        "BD",
+                        "BE",
+                        "BR",
+                        "BG",
+                        "CA",
+                        "CL",
+                        "CN",
+                        "CO",
+                        "CR",
+                        "HR",
+                        "CY",
+                        "CZ",
+                        "DK",
+                        "EG",
+                        "EE",
+                        "FI",
+                        "FR",
+                        "DE",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HU",
+                        "IS",
+                        "IN",
+                        "ID",
+                        "IQ",
+                        "IE",
+                        "IL",
+                        "IT",
+                        "JP",
+                        "JO",
+                        "KZ",
+                        "KE",
+                        "KW",
+                        "LV",
+                        "LB",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "MY",
+                        "MT",
+                        "MR",
+                        "MX",
+                        "MA",
+                        "NL",
+                        "NZ",
+                        "NG",
+                        "NO",
+                        "OM",
+                        "PK",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "QA",
+                        "RO",
+                        "RU",
+                        "SA",
+                        "RS",
+                        "SG",
+                        "SK",
+                        "SI",
+                        "ZA",
+                        "KR",
+                        "ES",
+                        "SE",
+                        "CH",
+                        "TW",
+                        "TH",
+                        "TT",
+                        "TN",
+                        "TR",
+                        "UA",
+                        "AE",
+                        "GB",
+                        "VN",
+                        "YE",
+                        "LY",
+                        "LK",
+                        "UY",
+                        "VE",
+                        "AF",
+                        "AX",
+                        "AL",
+                        "AS",
+                        "AO",
+                        "AI",
+                        "AQ",
+                        "AG",
+                        "AM",
+                        "AW",
+                        "BO",
+                        "BQ",
+                        "BA",
+                        "BW",
+                        "BV",
+                        "IO",
+                        "BN",
+                        "BF",
+                        "BI",
+                        "KH",
+                        "CM",
+                        "CV",
+                        "KY",
+                        "CF",
+                        "TD",
+                        "TL",
+                        "DJ",
+                        "DM",
+                        "DO",
+                        "EC",
+                        "SV",
+                        "GQ",
+                        "ER",
+                        "ET",
+                        "FK",
+                        "FO",
+                        "FJ",
+                        "GF",
+                        "PF",
+                        "TF",
+                        "GA",
+                        "GM",
+                        "GE",
+                        "GH",
+                        "GI",
+                        "GL",
+                        "GD",
+                        "GP",
+                        "GU",
+                        "GG",
+                        "GN",
+                        "GW",
+                        "GY",
+                        "HT",
+                        "HM",
+                        "HN",
+                        "AZ",
+                        "BS",
+                        "BB",
+                        "BY",
+                        "BZ",
+                        "BJ",
+                        "BM",
+                        "BT",
+                        "KM",
+                        "CG",
+                        "CD",
+                        "CK",
+                        "CX",
+                        "CC",
+                        "CI",
+                        "CW",
+                        "JM",
+                        "SJ",
+                        "JE",
+                        "KI",
+                        "KG",
+                        "LA",
+                        "LS",
+                        "LR",
+                        "MO",
+                        "MK",
+                        "MG",
+                        "MW",
+                        "IM",
+                        "MH",
+                        "MQ",
+                        "MU",
+                        "YT",
+                        "FM",
+                        "MD",
+                        "MN",
+                        "MS",
+                        "MZ",
+                        "MM",
+                        "NA",
+                        "NR",
+                        "NP",
+                        "MV",
+                        "ML",
+                        "NC",
+                        "NI",
+                        "NE",
+                        "NU",
+                        "NF",
+                        "PW",
+                        "PS",
+                        "PA",
+                        "PG",
+                        "PY",
+                        "RE",
+                        "RW",
+                        "BL",
+                        "MF",
+                        "WS",
+                        "ST",
+                        "SN",
+                        "MP",
+                        "PN",
+                        "SX",
+                        "SB",
+                        "SO",
+                        "SC",
+                        "SL",
+                        "GS",
+                        "SH",
+                        "KN",
+                        "LC",
+                        "PM",
+                        "VC",
+                        "TJ",
+                        "TZ",
+                        "TG",
+                        "TK",
+                        "TO",
+                        "TM",
+                        "TC",
+                        "TV",
+                        "UM",
+                        "UG",
+                        "VI",
+                        "VG",
+                        "WF",
+                        "EH",
+                        "ZM",
+                        "ZW",
+                        "UZ",
+                        "VU",
+                        "SR",
+                        "SZ",
+                        "AD",
+                        "MC",
+                        "SM",
+                        "ME",
+                        "VA",
+                        "NEUTRAL"
+                      ]
+                    }
+                  ],
+                  "MarketProperties": [
+                    {
+                      "FirstAvailableDate": null,
+                      "SupportedLanguages": [
+                        "es",
+                        "en",
+                        "zh-hans",
+                        "fr",
+                        "de",
+                        "it",
+                        "ja",
+                        "ko",
+                        "pt",
+                        "ru"
+                      ],
+                      "PackageIds": null,
+                      "PIFilter": null,
+                      "Markets": [
+                        "US"
+                      ]
+                    }
+                  ],
+                  "ProductId": "9N116V0599HB",
+                  "Properties": {
+                    "EarlyAdopterEnrollmentUrl": null,
+                    "FulfillmentData": {
+                      "ProductId": "9N116V0599HB",
+                      "WuBundleId": "a47214f1-dbf9-43d7-9660-1047657ee71c",
+                      "WuCategoryId": "e3644111-606f-4941-814c-88a7a611fbde",
+                      "PackageFamilyName": "TeamCherry.HollowKnightSilksong_y4jvztpgccj42",
+                      "SkuId": "0011",
+                      "Content": null,
+                      "PackageFeatures": null
+                    },
+                    "FulfillmentType": null,
+                    "FulfillmentPluginId": null,
+                    "HasThirdPartyIAPs": false,
+                    "LastUpdateDate": "2025-05-22T06:38:45.0000000Z",
+                    "HardwareProperties": {
+                      "MinimumHardware": [],
+                      "RecommendedHardware": [],
+                      "MinimumProcessor": null,
+                      "RecommendedProcessor": null,
+                      "MinimumGraphics": null,
+                      "RecommendedGraphics": null
+                    },
+                    "HardwareRequirements": [],
+                    "HardwareWarningList": [],
+                    "InstallationTerms": "InstallationTermsRestrictivePC",
+                    "Packages": [],
+                    "VersionString": "",
+                    "SkuDisplayGroupIds": null,
+                    "XboxXPA": false,
+                    "BundledSkus": [],
+                    "IsRepurchasable": false,
+                    "SkuDisplayRank": 2,
+                    "DisplayPhysicalStoreInventory": null,
+                    "VisibleToB2BServiceIds": [],
+                    "AdditionalIdentifiers": [],
+                    "IsTrial": true,
+                    "IsPreOrder": false,
+                    "IsBundle": false
+                  },
+                  "SkuASchema": "Sku;3",
+                  "SkuBSchema": "SkuGame;1",
+                  "SkuId": "0011",
+                  "SkuType": "trial",
+                  "RecurrencePolicy": null,
+                  "SubscriptionPolicyId": null
+                },
+                "Availabilities": [
+                  {
+                    "Actions": [
+                      "Details",
+                      "License",
+                      "Fulfill"
+                    ],
+                    "AvailabilityASchema": "Availability;3",
+                    "AvailabilityBSchema": "AvailabilityGame;1",
+                    "AvailabilityId": "9TL99CQJHGXK",
+                    "Conditions": {
+                      "ClientConditions": {
+                        "AllowedPlatforms": [
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Desktop"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Xbox"
+                          }
+                        ]
+                      },
+                      "EndDate": "9998-12-30T00:00:00.0000000Z",
+                      "ResourceSetIds": [
+                        "1"
+                      ],
+                      "StartDate": "1753-01-01T00:00:00.0000000Z"
+                    },
+                    "LastModifiedDate": "2025-05-22T05:13:07.3052876Z",
+                    "Markets": [
+                      "US"
+                    ],
+                    "OrderManagementData": {
+                      "GrantedEntitlementKeys": [],
+                      "Price": {
+                        "CurrencyCode": "USD",
+                        "IsPIRequired": false,
+                        "ListPrice": 0,
+                        "MSRP": 0,
+                        "TaxType": "",
+                        "WholesaleCurrencyCode": ""
+                      }
+                    },
+                    "Properties": {},
+                    "SkuId": "0011",
+                    "DisplayRank": 0,
+                    "RemediationRequired": false
+                  },
+                  {
+                    "Actions": [
+                      "License",
+                      "Details"
+                    ],
+                    "AvailabilityASchema": "Availability;3",
+                    "AvailabilityBSchema": "AvailabilityGame;1",
+                    "AvailabilityId": "9PR9558P3SR7",
+                    "Conditions": {
+                      "ClientConditions": {
+                        "AllowedPlatforms": [
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Mobile"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Team"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Holographic"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.8828080"
+                          },
+                          {
+                            "MaxVersion": 2147483647,
+                            "MinVersion": 0,
+                            "PlatformName": "Windows.Core"
+                          }
+                        ]
+                      },
+                      "EndDate": "9998-12-30T00:00:00.0000000Z",
+                      "ResourceSetIds": [
+                        "1"
+                      ],
+                      "StartDate": "1753-01-01T00:00:00.0000000Z"
+                    },
+                    "LastModifiedDate": "2025-05-22T05:13:07.3052876Z",
+                    "Markets": [
+                      "US"
+                    ],
+                    "OrderManagementData": {
+                      "GrantedEntitlementKeys": [],
+                      "Price": {
+                        "CurrencyCode": "USD",
+                        "IsPIRequired": false,
+                        "ListPrice": 0,
+                        "MSRP": 0,
+                        "TaxType": "",
+                        "WholesaleCurrencyCode": ""
+                      }
+                    },
+                    "Properties": {},
+                    "SkuId": "0011",
+                    "DisplayRank": 1,
+                    "RemediationRequired": false
+                  }
+                ],
+                "HistoricalBestAvailabilities": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Playstation Store US",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "lastUpdate": "{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"legacy\":false,\"overlay\":false,\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"defaultProduct\":null,\"name\":\"Hollow Knight: Silksong\",\"media\":[{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"BACKGROUND_LAYER_ART\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/CF09emGtx85NBEElUabkCqt1.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"FOUR_BY_THREE_BANNER\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/Ut9Ac42vFrE44LauHneuv2BW.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"GAMEHUB_COVER_ART\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/UX86s5Jgxan0b8Jy2TrVebne.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"HERO_CHARACTER\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/ru8tRA8mVOW77QNMgcyo3geO.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"LOGO\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/mfjALIZriQ2ejurclhcNYMT4.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"PORTRAIT_BANNER\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/FKcRXNtkuNwC7bL24mgznJq5.png\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/AUByzQsuzC5pv3s2qhs2ByI4.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/AVxsLqG4wqZZ0vLgbyKUeK8F.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/fntRbvH8uFkOhEiehmwPB2ES.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/6lGoOemtGmJTLifrwBTqCe85.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/WLMeB3Kfq4lP61kGERw5aSTT.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"SCREENSHOT\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/vA40jRtnT3Qq1tvJq0d1YAIw.jpg\"},{\"__typename\":\"Media\",\"type\":\"IMAGE\",\"role\":\"MASTER\",\"url\":\"https://image.api.playstation.com/vulcan/ap/rnd/202209/0101/BCrm3P00k2mxXBkYqQAnHp4M.png\"}]},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{}}{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"showRatingInfo\":true,\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"name\":\"Hollow Knight: Silksong\",\"publisherName\":\"Team Cherry Pty Ltd\",\"defaultProduct\":null,\"ownedTitles\":[],\"releaseDate\":{\"__typename\":\"ReleaseDate\",\"type\":\"COMING_SOON\",\"value\":null}},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{\"msgid_time_separator\":\":\"}}Hollow Knight: SilksongTeam Cherry Pty Ltd{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"defaultProduct\":null,\"isAnnounce\":true,\"products\":[],\"releaseDate\":{\"__typename\":\"ReleaseDate\",\"type\":\"COMING_SOON\",\"value\":null},\"isInWishlist\":false,\"isWishlistable\":true},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{\"msgid_announced\":\"Announced\",\"msgid_add_wishlist\":\"Add to Wishlist\",\"msgid_release_date_determined\":\"Release date to be determined.\"}}AnnouncedAdd to WishlistAdd to WishlistRelease date to be determined.{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"compatibilityNoticesByPlatform\":{\"__typename\":\"CompatibilityNotices\",\"PS4\":null,\"PS5\":null,\"Common\":null},\"defaultProduct\":null},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{\"msgid_ps5_version\":\"PS5 Version\",\"msgid_ps4_version\":\"PS4 Version\"}}{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"contentRating\":{\"__typename\":\"ProductContentRating\",\"authority\":\"ESRB\",\"description\":\"ESRB Rating Pending\",\"name\":\"ESRB_RATING_PENDING\",\"url\":\"https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/esrb/rp.png\",\"interactiveElements\":[],\"descriptors\":[{\"__typename\":\"ProductContentRatingDescriptor\",\"description\":\"Online Interactions Not Rated by the ESRB\",\"name\":\"ESRB_GAME_EXPERIENCE_MAY_CHANGE_DURING_ONLINE_PLAY\",\"url\":null},{\"__typename\":\"ProductContentRatingDescriptor\",\"description\":\"Visit www.esrb.org for rating information.\",\"name\":\"ESRB_VISIT_WWWESRBORG_FOR_RATING_INFORMATION\",\"url\":null}]},\"defaultProduct\":null},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{}}Online Interactions Not Rated by the ESRB, Visit www.esrb.org for rating information.{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"compatibilityNoticesByPlatform\":{\"__typename\":\"CompatibilityNotices\",\"PS4\":null,\"PS5\":null,\"Common\":null},\"defaultProduct\":null},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{\"msgid_ps5_version\":\"PS5 Version\",\"msgid_ps4_version\":\"PS4 Version\"}}{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"ROOT_QUERY\":{\"__typename\":\"Query\",\"addOnProductsRetrieve({\\\"conceptId\\\":\\\"10005908\\\",\\\"pageArgs\\\":{\\\"size\\\":48}})\":{\"__typename\":\"AddOnProducts\",\"addOnProducts\":[]}}},\"translations\":{}}{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"textReviewsEnabled\":false,\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"releaseDate\":{\"__typename\":\"ReleaseDate\",\"type\":\"COMING_SOON\"},\"defaultProduct\":null},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{}}{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{},\"translations\":{}}Game and Legal InfoAs the lethal hunter Hornet, explore an ancient kingdom of insects haunted by silk and song.Captured and brought to this unfamiliar land, you must battle foes and solve mysteries as you ascend on a deadly pilgrimage to the kingdom’s peak.Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award-winning action-adventure. Journey to all-new lands, discover new powers and uncover ancient secrets tied to your nature and your past.{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"invariantName\":\"Hollow Knight: Silksong\",\"localizedGenres\":[{\"__typename\":\"LocalizedGenre\",\"value\":\"Adventure\"}],\"publisherName\":\"Team Cherry Pty Ltd\",\"releaseDate\":{\"__typename\":\"ReleaseDate\",\"type\":\"COMING_SOON\",\"value\":null},\"descriptions\":[{\"__typename\":\"Description\",\"type\":\"SHORT\",\"subType\":\"NONE\",\"value\":\"Become the Princess Knight\"},{\"__typename\":\"Description\",\"type\":\"LONG\",\"subType\":\"NONE\",\"value\":\"As the lethal hunter Hornet, explore an ancient kingdom of insects haunted by silk and song.<br/>Captured and brought to this unfamiliar land, you must battle foes and solve mysteries as you ascend on a deadly pilgrimage to the kingdom’s peak.<br/><br/>Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award-winning action-adventure. Journey to all-new lands, discover new powers and uncover ancient secrets tied to your nature and your past.\"},{\"__typename\":\"Description\",\"type\":\"LEGAL\",\"subType\":\"PUBLISHER\",\"value\":\"Hollow Knight is © Copyright Team Cherry 2022\"}],\"defaultProduct\":null},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{\"msgid_publisher_no_colon\":\"Publisher\",\"msgid_genres\":\"Genres\"}}Publisher:Team Cherry Pty LtdGenres:Adventure{\"args\":{\"conceptId\":\"10005908\"},\"overrides\":{\"theme\":\"dark\",\"locale\":\"en-us\"},\"cache\":{\"Concept:10005908\":{\"id\":\"10005908\",\"__typename\":\"Concept\",\"defaultProduct\":null,\"privacyPolicy\":null,\"publisherName\":\"Team Cherry Pty Ltd\",\"descriptions\":[{\"__typename\":\"Description\",\"type\":\"SHORT\",\"subType\":\"NONE\",\"value\":\"Become the Princess Knight\"},{\"__typename\":\"Description\",\"type\":\"LONG\",\"subType\":\"NONE\",\"value\":\"As the lethal hunter Hornet, explore an ancient kingdom of insects haunted by silk and song.<br/>Captured and brought to this unfamiliar land, you must battle foes and solve mysteries as you ascend on a deadly pilgrimage to the kingdom’s peak.<br/><br/>Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award-winning action-adventure. Journey to all-new lands, discover new powers and uncover ancient secrets tied to your nature and your past.\"},{\"__typename\":\"Description\",\"type\":\"LEGAL\",\"subType\":\"PUBLISHER\",\"value\":\"Hollow Knight is © Copyright Team Cherry 2022\"}]},\"ROOT_QUERY\":{\"__typename\":\"Query\",\"conceptRetrieve({\\\"conceptId\\\":\\\"10005908\\\"})\":{\"__ref\":\"Concept:10005908\"}}},\"translations\":{}}Hollow Knight is © Copyright Team Cherry 2022"
+      }
+    },
+    {
+      "name": "GOG Store",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "mainColumn": "Description\n        Available: TBABecome the Princess KnightPlay as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.\n\n\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.\nGame FeaturesDiscover a whole new kingdom! Explore coral forests, mossy grottos, gilded cities and misted moors as you ascend to the shining citadel at the top of the world.\n\nEngage in lethal acrobatic action! Wield a whole new suite of deadly moves as you dance between foes in deadly, beautiful combat.Craft powerful tools! Master an ever-expanding arsenal of weapons, traps, and mechanisms to confound your enemies and explore new heights.Solve shocking quests! Hunt down rare beasts, solve ancient mysteries and search for lost treasures to fulfil the wishes of the downtrodden and restore the kingdom’s hope. Prepare for the unexpected!Face over 150 all-new foes! Beasts and hunters, assassins and kings, monsters and knights, defeat them all with bravery and skill!Challenge Silk Soul mode! Once you conquer the kingdom, test your skills in an all-new mode that spins the game into a unique, challenging experience.Experience a stunning orchestral score! Hollow Knight’s award-winning composer, Christopher Larkin, returns to bring melancholy melodies, symphonic strings and heart-thumping, soul strumming boss themes to the adventure.\n            Hollow Knight is © Copyright Team Cherry 2019\n        \n                    System requirements\n            \n                Minimum system requirements:\n            \n                Recommended system requirements:\n            System:Windows 7Windows 10Processor:Intel Core 2 Duo E5200Intel Core i5Memory:4 GB RAM8 GB RAMGraphics:GeForce 9800GTX+ (1GB)GeForce GTX 560+DirectX:Version 10Version 10Storage:9 GB available space9 GB available spaceOther:1080p, 16:9 recommended1080p, 16:9 recommended\n                Recommended system requirements:\n            System:Windows 10Processor:Intel Core i5Memory:8 GB RAMGraphics:GeForce GTX 560+DirectX:Version 10Storage:9 GB available spaceOther:1080p, 16:9 recommended",
+        "sideColumn": "Why buy on GOG.COM?\n                DRM FREE. No activation or online connection required to play.\n        Safety and satisfaction. Stellar support 24/7 and full refunds up to 30 days.\n                    \n                Game details\n        Genre:Adventure\n\n                     -                                     \n                    Action\n\n                     -                                     \n                    MetroidvaniaTags:Adventure, Action, Indie, Fantasy, Story Rich, \n                        show 13 more...\n                    Atmospheric, 2D, Exploration, Great Soundtrack, Dark, Open World, Platformer, Difficult, Multiple Endings, Cartoony, LGBTQ+, Metroidvania, Souls-like\n                            Works on:\n                    \n                        Windows (7, 8, 10, 11)\n                \n                        Company:\n                Team Cherry\n                        /\n            Team Cherry\n                            Links:\n                    Forum discussion\n                                    Game features\n                            \n                            Cloud saves\n                            \n                            Controller support\n                            \n                            Overlay\n                            \n                            Single-player\n                            Languages\n                English\n            audiotext\n                Deutsch\n            audiotext\n                español\n            audiotext\n                français\n            audiotext\n                italiano\n            audiotext\n                Português do Brasil\n            audiotext\n                русский\n            audiotext\n                中文(简体)\n            audiotext\n                日本語\n            audiotext\n                한국어\n            audiotext",
+        "images": ""
+      }
+    },
+    {
+      "name": "Humble Store",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "showcaseRow": "Hollow Knight: Silksong\n\n\n\n\n\n  \n  \n\n  \n    \n    \n    \n  \n  \n    \n    \n    \n  \n\n  \n\n\n\n\n  \n  Coming Soon!\n\n\n\n\n\n\n  \n    \n       Add to Cart\n       Checkout\n    \n  \n\n\n  \n  \n  Add to wishlist\n  On wishlist\n  Remove from wishlist\n\n\n\n\n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n  \n  \n  \n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n  \n    \n  \n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n  \n    \n  \n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n  \n\n\n\n\nAvailable: TBA",
+        "detailsRow": "Platform\n\n\n\n  \n    \n  \n  \n  \n  \n    \n    \n      \n    \n    \n  \n  \n\n\n\n\n  Operating System\n\n\n  \n\n  \n\n  \n\n\n\n  Developer\n\n\nTeam Cherry\n\n\n  Publisher\n\n\nTeam Cherry\n\n\n  System Requirements\n\nLearn More\n\n\n  Links\n\n\n\n  Official Website\n\n\n\n  Team Cherry Website",
+        "descriptionRow": "Hollow Knight: Silksong is provided via Steam for Windows. A free Steam account is required.\n\n\n\n  Description\n\n\n  Become the Princess KnightPlay as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak.Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.Game Features\n\nDiscover a whole new kingdom! Explore coral forests, mossy grottos, gilded cities and misted moors as you ascend to the shining citadel at the top of the world.\nEngage in lethal acrobatic action! Wield a whole new suite of deadly moves as you dance between foes in deadly, beautiful combat.\nCraft powerful tools! Master an ever-expanding arsenal of weapons, traps, and mechanisms to confound your enemies and explore new heights.\nSolve shocking quests! Hunt down rare beasts, solve ancient mysteries and search for lost treasures to fulfil the wishes of the downtrodden and restore the kingdom’s hope. Prepare for the unexpected!\nFace over 150 all-new foes! Beasts and hunters, assassins and kings, monsters and knights, defeat them all with bravery and skill!\nChallenge Silk Soul mode! Once you conquer the kingdom, test your skills in an all-new mode that spins the game into a unique, challenging experience.\nExperience a stunning orchestral score! Hollow Knight’s award-winning composer, Christopher Larkin, returns to bring melancholy melodies, symphonic strings and heart-thumping, soul strumming boss themes to the adventure.\n\n\n\nRead more about Hollow Knight: Silksong \nShow less about Hollow Knight: Silksong"
+      }
+    },
+    {
+      "name": "Team Cherry Blog",
+      "success": true,
+      "isUpdated": false,
+      "lastChangeTimestamp": null,
+      "diff": null,
+      "data": {
+        "lastUpdate": "Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    12/13/19\n  \n  \n  \n    \n  \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    12/13/19\n  \n  \n  \n  \n\n\n  \n    \n  \n    TEAM CHERRY HOLIDAY SIGN OFF\n  \n\n\n  Happy Holidays Gang! With Christmas close and Team Cherry about to take a few days off after an intensive year’s development, we’re gonna try and keep this update as snap-sharp as we can.\n  \n\n\nRead More\n\n\n        \n      \n    \n    \n    \n      \n      \n      \n  \n\n\n\n      \n      \n      \n        \n          \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    6/25/19\n  \n  \n  \n    \n  \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    6/25/19\n  \n  \n  \n  \n\n\n  \n    \n  \n    POST E3 WRAP!\n  \n\n\n  Team Cherry checking in for a long-past due Silksong development update. Let’s get into it for our post-E3 wrap edition!\n  \n\n\nRead More\n\n\n        \n      \n    \n    \n    \n      \n      \n      \n  \n\n\n\n      \n      \n      \n        \n          \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    3/19/19\n  \n  \n  \n    \n  \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    3/19/19\n  \n  \n  \n  \n\n\n  \n    \n  \n    LATE ANNIVERSARY CELEBRATION!\n  \n\n\n  Gang! We’re jumping in for a quick round-up update. Lots going on in the world of Hollow Knight, so we’re gonna start running down the list. This’ll be a speedy one, so we can dive straight back into Silksong development. Hold onto your horns!\n  \n\n\nRead More\n\n\n        \n      \n    \n    \n    \n      \n      \n      \n  \n\n\n\n      \n      \n      \n        \n          \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    2/14/19\n  \n  \n  \n    \n  \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    2/14/19\n  \n  \n  \n  \n\n\n  \n    \n  \n    HOLLOW KNIGHT: SILKSONG REVEALED!\n  \n\n\n  No time for fluff today gang. Let’s leap straight in for the big reveal, in trailer form!\n  \n\n\nRead More\n\n\n        \n      \n    \n    \n    \n      \n      \n      \n  \n\n\n\n      \n      \n      \n        \n          \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    2/11/19\n  \n  \n  \n    \n  \n  \n    \n      \n        \n          Team Cherry Games\n      \n    \n    \n      Team Cherry Press\n    \n    2/11/19\n  \n  \n  \n  \n\n\n  \n    \n  \n    READY YOUR NEEDLE!\n  \n\n\n  \n  \n\n\nRead More"
+      }
+    }
+  ]
+}

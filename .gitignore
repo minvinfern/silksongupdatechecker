@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# Debug output
+*.png
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
